@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="1782240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="2145760">
       <assemblyIdentity name="Saturn X" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tdlOoqjUqbBvPl6h+mIg9lhqJmb4FN0oFAZtRX7TasQ=</dsig:DigestValue>
+        <dsig:DigestValue>lcxVr7p7hNcTernYobT/H+BO1AS9Lrzq87elT/rnYuI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -243,13 +243,13 @@
       <dsig:DigestValue>TKWfVnHs+34Afm92xkuGsNae5PWsajgC2WXC/0ZQNQs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Saturn X.exe.config" size="2008">
+  <file name="Saturn X.exe.config" size="2788">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yOYyLmBDdODxJASD/ov4AmLMGxHyVsVzCkNkpj9c4Gs=</dsig:DigestValue>
+      <dsig:DigestValue>vvzjjKkvWn/QPQifEYRWRkwBiHibScDXu75Ov4A2hz4=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
