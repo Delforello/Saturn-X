@@ -115,14 +115,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="2145760">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="2142688">
       <assemblyIdentity name="Saturn X" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9882eCZlrp8xSgWRmBKfe0PXLlFwrMjvWZNRTcDqFYw=</dsig:DigestValue>
+        <dsig:DigestValue>ij2R3/kBkoi+wZdSBW9lXQzVWKtf8rSLT+WqXw2/Isk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
