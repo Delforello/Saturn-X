@@ -127,14 +127,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="2149856">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Saturn X.exe" size="2150368">
       <assemblyIdentity name="Saturn X" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sAt2KbmUO5mEkQJHaJhS+SJ6safNHBIUmGFXWRrw/hM=</dsig:DigestValue>
+        <dsig:DigestValue>cRrQzBf8Jq9NrV5vops/Text3883uY9elaljz+PvEm0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -151,14 +151,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScriptBloxApi.dll" size="76288">
-      <assemblyIdentity name="ScriptBloxApi" version="6.2.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScriptBloxApi.dll" size="86016">
+      <assemblyIdentity name="ScriptBloxApi" version="6.3.1.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uU2IMMnh7rxs/Ge2ZLqq7fUyTldCKJXTGRNgQx+jbBY=</dsig:DigestValue>
+        <dsig:DigestValue>U44ybDl40S0yte1o+bKLuhOjqW3HpjfbmS68fVvrt9Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
